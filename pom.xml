@@ -8,7 +8,7 @@
 	<packaging>jar</packaging>
 
 	<name>ScriptJava</name>
-	<url>http://maven.apache.org</url>
+	<url>https://github.com/masinger/ScriptJava</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -27,4 +27,14 @@
 			<version>3.20.0-GA</version>
 		</dependency>
 	</dependencies>
+	<scm>
+		<url>https://github.com/masinger/ScriptJava.git</url>
+	</scm>
+	<description>A console/script environment for Java</description>
+	  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+    </license>
+  </licenses>
 </project>
