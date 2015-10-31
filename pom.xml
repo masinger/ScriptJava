@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.github.masinger.scriptjava</groupId>
-	<artifactId>JScript</artifactId>
+	<artifactId>ScriptJava</artifactId>
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
