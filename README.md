@@ -76,7 +76,7 @@ will import the given package.
 
 ## Advanced tools and usage
 There are many other features you can use. Including:
-+ Maven support
++ [Maven support](https://github.com/masinger/ScriptJava/wiki/Maven-Support)
 + Import of static methods
 + Interactive script writing
 
