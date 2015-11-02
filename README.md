@@ -37,7 +37,7 @@ will run just fine.
 If you want to use/access a variable in multiple commands you can ''allocate'' them with the alloc(...)-method:
 
     alloc(varName:String, value:Object)
-This will invoke the values ''.getClass()'' method to discover the type to be used for this variable. If you just want to declare it without assignig it's value you may use:
+This will invoke the values ''.getClass()'' method to discover the type to be used for this variable. If you just want to declare it without assigning it's value you may use:
 
     allocNull(varName:String, type:Class<?>)
 It will create a variable of the specified type and name. The value will be initilaized with ''null''.
